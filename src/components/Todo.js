@@ -41,6 +41,7 @@ const Todo = () => {
       window.location.reload();
     } catch (err) {
       console.log(err);
+      console.log("publish");
     }
   }
 
