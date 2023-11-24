@@ -183,3 +183,90 @@ You're about to initialize a Firebase project in this directory:
 [info] 
 [info] +  Success! Logged into GitHub as AzharAlbakri 
 [info] 
+[debug] [2023-11-24T18:16:12.013Z] >>> [apiv2][query] GET https://api.github.com/repos/AzharAlbakri/arg-jr-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:16:12.472Z] <<< [apiv2][status] GET https://api.github.com/repos/AzharAlbakri/arg-jr-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:16:12.473Z] <<< [apiv2][body] GET https://api.github.com/repos/AzharAlbakri/arg-jr-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:16:43.641Z] >>> [apiv2][query] GET https://api.github.com/repos/AzharAlbakri/arg-jr-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:16:43.971Z] <<< [apiv2][status] GET https://api.github.com/repos/AzharAlbakri/arg-jr-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:16:43.971Z] <<< [apiv2][body] GET https://api.github.com/repos/AzharAlbakri/arg-jr-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:16:46.322Z] >>> [apiv2][query] GET https://api.github.com/repos/\AzharAlbakri/arg-jr-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:16:46.498Z] <<< [apiv2][status] GET https://api.github.com/repos/\AzharAlbakri/arg-jr-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:16:46.498Z] <<< [apiv2][body] GET https://api.github.com/repos/\AzharAlbakri/arg-jr-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:16:47.331Z] >>> [apiv2][query] GET https://api.github.com/repos/\AzharAlbakri/arg-jr-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:16:47.504Z] <<< [apiv2][status] GET https://api.github.com/repos/\AzharAlbakri/arg-jr-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:16:47.504Z] <<< [apiv2][body] GET https://api.github.com/repos/\AzharAlbakri/arg-jr-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:17:30.912Z] >>> [apiv2][query] GET https://api.github.com/repos/AzharAlbakri/arg-jr-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:17:31.258Z] <<< [apiv2][status] GET https://api.github.com/repos/AzharAlbakri/arg-jr-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:17:31.258Z] <<< [apiv2][body] GET https://api.github.com/repos/AzharAlbakri/arg-jr-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:17:34.666Z] >>> [apiv2][query] GET https://api.github.com/repos/AzharAlbakri/arg-jr-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:17:34.846Z] <<< [apiv2][status] GET https://api.github.com/repos/AzharAlbakri/arg-jr-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:17:34.846Z] <<< [apiv2][body] GET https://api.github.com/repos/AzharAlbakri/arg-jr-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:33.020Z] >>> [apiv2][query] GET https://api.github.com/repos/azharalbakri/arg-ju-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:33.632Z] <<< [apiv2][status] GET https://api.github.com/repos/azharalbakri/arg-ju-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:33.632Z] <<< [apiv2][body] GET https://api.github.com/repos/azharalbakri/arg-ju-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:35.120Z] >>> [apiv2][query] GET https://api.github.com/repos/azharalbakri/arg-ju-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:35.368Z] <<< [apiv2][status] GET https://api.github.com/repos/azharalbakri/arg-ju-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:35.368Z] <<< [apiv2][body] GET https://api.github.com/repos/azharalbakri/arg-ju-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:36.102Z] >>> [apiv2][query] GET https://api.github.com/repos/azharalbakri/arg-ju-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:36.523Z] <<< [apiv2][status] GET https://api.github.com/repos/azharalbakri/arg-ju-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:36.523Z] <<< [apiv2][body] GET https://api.github.com/repos/azharalbakri/arg-ju-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:56.542Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:56.938Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:56.939Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:57.393Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:57.584Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:57.585Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:57.591Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:57.776Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:57.777Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:57.821Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:58.018Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:58.019Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:58.049Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:58.236Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:58.236Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:58.267Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:58.450Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:58.450Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:58.460Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:58.483Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:58.655Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:58.656Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:58.666Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:58.837Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:58.837Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:58.849Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:58.849Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:32:59.441Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:32:59.622Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key 401
+[debug] [2023-11-24T18:32:59.622Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr4/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:38:18.316Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:38:18.665Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:38:18.665Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:38:19.601Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:38:19.786Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:38:19.787Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:38:20.044Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:38:20.065Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:38:20.225Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:38:20.243Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:38:20.243Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:38:20.393Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-11-24T18:38:20.393Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:38:20.412Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:38:20.552Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-11-24T18:38:20.552Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:38:20.592Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:38:20.592Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:38:21.208Z] >>> [apiv2][query] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:38:21.423Z] <<< [apiv2][status] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key 401
+[debug] [2023-11-24T18:38:21.423Z] <<< [apiv2][body] GET https://api.github.com/repos/arg-ju-crr/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:38:27.867Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:38:28.216Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-11-24T18:38:28.216Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:38:28.479Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:38:28.661Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-11-24T18:38:28.661Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-11-24T18:38:28.996Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-11-24T18:38:29.177Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-11-24T18:38:29.178Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
