@@ -10,6 +10,7 @@ const Todo = () => {
   const [todos, setTodo] = useState([]);
 
   const [checked, setChecked] = useState([]);
+  //const [setChecked] = useState([]);
 
   const collectionRef = collection(db, 'todo')
 
